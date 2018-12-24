@@ -1,9 +1,14 @@
 .candidate {
 	height: 50px;
-	width: 50px;
-	border-radius: 25px;
+    width: 50px;
+    border-radius: 20px;
 }
 
 .space15 {
 	margin-bottom: 15px;
+	
+}
+
+.form-control {
+	width: 50%;
 }
